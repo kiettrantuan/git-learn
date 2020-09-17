@@ -1,4 +1,2 @@
-**Change 1**
-
-**Change 2**
-
+# Git Learning
+These are some files I use for learning __*Git*__
