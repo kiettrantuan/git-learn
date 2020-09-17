@@ -2,6 +2,3 @@
 
 **Change 2**
 
----master
-
-> Change 3
